@@ -1,0 +1,97 @@
+body {
+    margin: 0 0 0 0;
+}
+
+.nav1 {
+    height: 100px;
+    background-color: cornflowerblue;
+}
+
+.nav2 {
+    height: 70px;
+    background-color: crimson;
+}
+
+.left1 {
+    height: 875px;
+    /* background-color: indianred; */
+    width: 875px;
+}
+
+.vyas_image {
+    height: 250px;
+    width: 250px;
+    background-color: sandybrown;
+    float: left;
+    margin: 50px 20px 20px 80px;
+}
+
+.vyas_title {
+    height: 34px;
+    width: 380px;
+    background-color: steelblue;
+    float: left;
+    margin: 20px 10px 0px 20px;
+}
+
+.vyas_body {
+    height: 20px;
+    width: 670px;
+    background-color: rosybrown;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 80px;
+}
+
+.vyas_continue {
+    height: 20px;
+    width: 200px;
+    background-color: peru;
+    float: left;
+    margin-top: 60px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 80px;
+}
+
+.vyas_title_container {
+    padding-top: 30px;
+    height: 250px;
+}
+
+.p1_image {
+    height: 128px;
+    width: 128px;
+    background-color: hotpink;
+    float: left;
+    /* margin: 50px 20px 20px 80px; */
+    clear: left;
+    margin-top: 70px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+
+.p1_title {
+    height: 30px;
+    width: 501px;
+    background-color: coral;
+    float: left;
+    margin-top: 20px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 20px;
+}
+
+.p1_title_container {
+    /* height: 300px; */
+    width: 490px;
+    float: left;
+    margin-top: 50px;
+    /* margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 20px; */
+}
+
